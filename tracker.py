@@ -1,5 +1,5 @@
 '''
-Name :Rohit Kushwaha                                                   
+Name :Rohit Kushwaha                                                    
 Date : 11/11/25
 Project Title : Daily Calorie Tracker
 '''
