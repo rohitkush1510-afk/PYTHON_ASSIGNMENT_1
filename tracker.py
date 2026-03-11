@@ -1,5 +1,5 @@
 '''       
-Name :Rohit Kushwaha                                                    
+Name :Rohit Kushwaha                                                        
 Date : 11/11/25
 Project Title : Daily Calorie Tracker
 '''
@@ -49,3 +49,4 @@ if save_report == "yes":
 else:
 
     print("Report not saved. TRY AGAIN!")
+
