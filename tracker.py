@@ -8,7 +8,7 @@ print("Welcome to the 'Calorie Tracker' family! \nWe're stoked to have you here.
 print("This tool help's you to track your daily calories so that you can gain or loose weight accordingly to stay fit. ")
 
 n = int(input(" enter a no. of elements"))
-data = {}
+data = {}    
 for i in range(n):
     key = input("enter Meal: ")
     value = float(input("enter Calorie: "))
